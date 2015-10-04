@@ -1,0 +1,49 @@
+#photocv
+{
+    border: 3px black groove;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px black;
+    float: right;
+    max-width: 35%;
+    margin-right: 2%;
+}
+
+#citation
+{
+    text-align: center;
+    font-size: 14px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+h1 
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+    color: brown;
+    font-weight: bolder;
+}
+
+body 
+{
+    background-image: url("images/san_marco.jpg");
+}
+
+section
+{
+    background-color: darkgrey;
+    opacity: 0.5;
+    max-width: 55%;
+    margin-left: 5%;
+    padding: 3px;
+}
+
+section ul li
+{
+    font: white;
+}
